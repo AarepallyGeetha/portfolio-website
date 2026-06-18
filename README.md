@@ -1,7 +1,27 @@
-## Project Description
+# Personal Portfolio Website
 
-This project is a Personal Portfolio Website developed using Semantic HTML5, CSS3, and JavaScript. The website is designed to showcase personal information, skills, projects, and contact details in a structured and professional manner.
+A fully responsive and accessible personal portfolio website developed using Semantic HTML5, CSS3, and JavaScript.
 
-The portfolio follows modern web development standards by implementing semantic HTML elements, accessibility features, and SEO best practices. ARIA attributes and properly labeled form controls are used to improve screen reader compatibility and keyboard navigation. The website is fully responsive and provides a consistent user experience across different devices and screen sizes.
+## Features
+- Semantic HTML5 structure
+- WCAG accessibility compliance
+- ARIA labels for screen readers
+- SEO-friendly meta tags
+- Responsive design
+- Multi-page navigation
+- Accessible contact form
+- Keyboard-friendly navigation
 
-The project demonstrates the use of accessible web design principles, clean code organization, and user-friendly navigation while maintaining compliance with WCAG accessibility guidelines.
+## Technologies Used
+- HTML5
+- CSS3
+- JavaScript
+
+## Pages
+- Home
+- About
+- Projects
+- Contact
+
+## Objective
+To create a modern, accessible, and SEO-optimized portfolio website that follows web standards and accessibility best practices.
